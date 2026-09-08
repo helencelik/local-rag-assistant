@@ -26,3 +26,6 @@ Projeyi kendi bilgisayarınızda ayağa kaldırmak için aşağıdaki adımları
 1. Gerekli kütüphaneleri yükleyin:
    ```bash
    pip install -r requirements.txt
+
+2. Uygulamayı başlatın: streamlit run app.py
+3. Tarayıcınızda açılan http://localhost:8501 adresinden veya aynı ağdaki cihazınızdan terminalde verilen Network URL üzerinden asistanı kullanmaya başlayabilirsiniz.   
