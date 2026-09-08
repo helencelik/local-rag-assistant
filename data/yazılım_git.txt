@@ -1,0 +1,3 @@
+YAZILIM MÜHENDİSLİĞİ: GİT VE DALLANMA (BRANCHING)
+Git gibi versiyon kontrol sistemlerinde "Branch" (Dal) yapısı, geliştiricilerin ana kod tabanına (genellikle main veya master olarak adlandırılır) dokunmadan bağımsız ve güvenli bir şekilde yeni özellikler geliştirmesini sağlar.
+Bir projede yeni bir özellik eklenirken ana daldan yeni bir branch açılır (git checkout -b yeniozellik), kodlar bu dalda yazılır ve test edilir. İşlem sorunsuz bittiğinde, yazılan bu kodlar ana dal ile birleştirilir (git merge). Bu sayede kod çakışmaları (conflict) daha rahat çözülür.

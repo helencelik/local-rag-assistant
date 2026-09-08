@@ -1,0 +1,3 @@
+AYRIK MATEMATİK: RSA ŞİFRELEME ALGORİTMASI
+RSA algoritması, açık anahtarlı (asimetrik) bir şifreleme yöntemidir. Adını mucitleri olan Rivest, Shamir ve Adleman'ın baş harflerinden alır. RSA'nın güvenliği, çok büyük iki asal sayının (p ve q) çarpımını (n = p*q) çarpanlarına ayırmanın mevcut bilgisayarlar için matematiksel olarak aşırı zor olmasına dayanır.
+Algoritmada herkesin erişebildiği bir "Açık Anahtar" (Public Key) ile mesajlar şifrelenir, ancak bu şifre sadece alıcının gizli tuttuğu "Özel Anahtar" (Private Key) ile çözülebilir. Dijital imzalama işlemlerinin de temelini oluşturur.
